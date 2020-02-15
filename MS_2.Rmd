@@ -17,5 +17,5 @@ This is the project my freshman roomate put togther so I witnessed the process o
 
 2. Pieter Quinton: Housing Market. An examination of the housing market, starting at the national level and narrowing the scope all the way to just one city.
 
-I chose this project because it is Pieter's birthday and I remember he took this course. Pieter's project, although being on a rather dry topic, shows the given data very clearly and with good aesthetics. He also provides very good explainatons as to what is going on, and also as to why he is has done it. The trends shown by the graphs are also explained well. I don't know how much data cleaning was requried for the project, but I think it would have been more than Robert's project. 
+I chose this project because it is Pieter's birthday and I remember he took this course. Pieter's project, although being on a rather dry topic, shows the given data very clearly and with good aesthetics. He also provides very good explainatons as to what is going on, and also as to why he is has done it. The trends shown by the graphs are also explained well. I don't know how much data cleaning was requried for the project, but I think it would have been more than Robert's project.  
 
